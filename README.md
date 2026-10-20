@@ -14,3 +14,4 @@
 - Sızma Testi (Penetration Testing) metodolojileri ve ağ güvenliği
 - Linux sistem yönetimi ve Bash kullanımı
 - Deneysel prototipler üzerinden C ve Rust ekosistemlerini inceliyorum
+- 🐧 **Archelon Projesi:** AI destekli geliştirme yöntemleriyle, yerel yapay zeka iş akışlarını destekleyen hafif ve deneysel bir Linux ortamı prototipliyorum.
