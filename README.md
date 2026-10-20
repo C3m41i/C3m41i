@@ -1,16 +1,16 @@
-## Hi there 👋
+### Merhaba, Ben Cemali! 👋
 
-<!--
-**C3m41i/C3m41i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ofansif Güvenlik (Red Team)** alanına odaklanan bir Bilgisayar Bilimleri öğrencisiyim. Sistemlerin çalışma mantığını kurcalayarak öğrenmeyi, Linux ortamlarını özelleştirmeyi ve donanım projeleriyle uğraşmayı seviyorum.
 
-Here are some ideas to get you started:
+### 🛠️ Nelerle İlgileniyorum?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ **Siber Güvenlik:** TryHackMe ve CTF platformları üzerinden Web Güvenliği (IDOR, LFI vb.), ağ analizi ve temel tersine mühendislik konularında pratik yapıyorum.
+- 🐧 **Linux & Sistem:** Günlük hayatımda aktif olarak Linux kullanıyor; farklı masaüstü ortamları, pencere yöneticileri ve sistem yapılandırmaları üzerine denemeler yapıyorum.
+- 📡 **Donanım & Mobil:** Mikrodenetleyicilerle küçük otomasyon devreleri kuruyor ve mobil cihazlarda Kali NetHunter/Bettercap ile ağ güvenliği testleri deniyorum.
+- 🤖 **AI Destekli Prototipleme:** Temel programlama becerilerimi geliştirirken, aklımdaki sistem ve arayüz fikirlerini hızlıca prototiplemek için yerel dil modellerini (Local LLMs) ve AI destekli geliştirme (*vibe coding*) yöntemlerini kullanıyorum.
+
+### 🌱 Şu An Neler Öğreniyorum?
+
+- Sızma Testi (Penetration Testing) metodolojileri ve ağ güvenliği
+- Linux sistem yönetimi ve Bash kullanımı
+- Deneysel prototipler üzerinden C ve Rust ekosistemlerini inceliyorum
